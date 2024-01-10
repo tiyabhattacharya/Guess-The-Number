@@ -1,6 +1,5 @@
-## Getting Started
+It is a simple guess "GUESS THE NUMBER" game developed using Java OOP's concepts.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
 
